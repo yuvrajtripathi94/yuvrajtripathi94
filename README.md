@@ -1,5 +1,5 @@
 # Hi 👋 I'm Yuvraj
-#👩‍💻 About Me
+👩‍💻 About Me
 
 🎓 I am a 3rd year B.Tech CSE student from Maharana Pratap Engineering College, Kanpur.  
 💡 Passionate about coding, problem solving, and software development.  
